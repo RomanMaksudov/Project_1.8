@@ -1,3 +1,16 @@
+header{
+	width: 100%;
+	background: Black;
+	height: 100px;
+}
+
+.logo-container{
+	font-size: 20px;
+	padding: 5px 20px;
+	text-align: left;
+	color: white;
+}
+
 .navigation{
     float: right;
     height: 100%;
@@ -21,4 +34,11 @@
 .navigation a:hover{
     background-color: gray;
     color: #101010;
+}
+
+.text{
+    float: center;
+    padding: 0px 200px;
+    font-size: 26px;
+    color: gray;
 }
